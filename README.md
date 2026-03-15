@@ -1,9 +1,5 @@
 # CoTu-Hub
-Chào bạn! Dựa trên hình ảnh trò chơi Roblox mà bạn cung cấp, đây là một đoạn code Lua sử dụng thư viện UI đơn giản để thực hiện yêu cầu của bạn.
-
-Lưu ý: Đoạn code này được thiết kế cho các phần mềm thực thi script (executor) trên Roblox. Vì mỗi trò chơi có cấu trúc nút bấm khác nhau, mình đã thiết lập để script tìm các nút dựa trên nội dung chữ (Text) hiển thị trên màn hình của bạn.
-
-Đoạn Code Auto Câu Cá & Spam Chiêu
+SCRIPT CÂU CÁ VẠN CÂN ĐANG ĐƯỢC CHỈNH SỬA...
 Lua
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Auto Fishing - Hoadauan", "Midnight")
